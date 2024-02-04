@@ -22,7 +22,7 @@ const heroContent: HeroContent = {
     title: 'Welcome to Home Local-Tech',
     description: 'Get professional home services at your doorstep!',
     buttonText: 'Book Now',
-    buttonLink: '/book-now',
+    buttonLink: '/',
 };
 
 const Heo: React.FC = () => {
